@@ -1,0 +1,36 @@
+.rodape-container {
+    background-color: #8e8d8d;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 4rem;
+}
+
+.social ul li {
+    display: inline-block;
+    margin-right: 32px;
+    text-align: center;
+}
+
+.social ul li:last-child {
+    margin-right: 0;
+}
+
+.rodape-container p {
+    color:  #fff;
+    font-size: 20px;
+}
+
+.rodape-container a {
+    text-decoration: none;
+}
+
+.rodape-container a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.rodape-container a img {
+    margin-right: 8px;
+}

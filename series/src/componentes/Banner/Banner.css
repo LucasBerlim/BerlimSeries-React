@@ -1,0 +1,22 @@
+.banner {
+    text-align: center;
+    background-color: #32c568;
+    padding: 4rem;
+}
+
+.banner img {
+    max-width: 100%;
+}
+
+.banner span {
+    font-size: 4rem;
+}
+
+.banner span,
+.banner h2 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: white;
+}
